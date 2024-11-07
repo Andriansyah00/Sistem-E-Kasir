@@ -16,8 +16,8 @@ class App extends BaseConfig
      *
      * E.g., http://example.com/
      */
-    //public string $baseURL = 'http://localhost:8080/'; // dengan php spark serve
-    public string $baseURL = 'http://localhost/kasir-ci4/public/'; // dengan cara biasa localhost
+    public string $baseURL = 'http://localhost:8080/'; // dengan php spark serve
+    // public string $baseURL = 'http://localhost/kasir-ci4/public/'; // dengan cara biasa localhost
 
 
     /**
