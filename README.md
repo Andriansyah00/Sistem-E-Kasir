@@ -3,15 +3,21 @@
 ## Technology used
 
 ● HTML, CSS, Javascrpit
+
 ● CodeIgnitter 4
+
 ● AdminLTE
+
 ● MySQL
 
 ## Features
 
 ● Sales Transactions
+
 ● Data Master
+
 ● Daily, Monthly, Annual Report
+
 ● Application Settings
 
 ## Demo
