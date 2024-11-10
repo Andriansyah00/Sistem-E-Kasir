@@ -22,13 +22,11 @@
 
 ## Demo
 
-![ss1](img/img_1.png)
+![ss1](img/img1.png)
 
 
-![ss2](img/img_2.png)
+![ss2](img/img2.png)
 
-
-![ss3](img/img_3.png)
 
 
 
